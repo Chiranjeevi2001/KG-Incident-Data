@@ -1,0 +1,7 @@
+langchain
+langchain-community
+oci
+neo4j
+faker
+python-dotenv
+faiss-cpu
